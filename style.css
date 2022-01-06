@@ -168,3 +168,23 @@ body {
 .footer-mission p {
     color: rgba(255, 255, 255, 0.521);
 }
+.programming-hero {
+    display: flex;
+    margin-bottom: 200px;
+    margin-top: 100px;
+}
+.pro-hero-img img {
+    width: 80%;
+    border-radius: 10px;
+    margin-left: 80px;
+ 
+}
+.pro-hero-ex {
+    width: 100%;
+    margin-left: 10px;
+    padding: 10px;
+    padding-right: 50px;
+}
+.pro-hero-ex h1 {
+    font-size: 40px;
+}
