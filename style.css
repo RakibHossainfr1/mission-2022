@@ -103,6 +103,10 @@ body {
 }
 .without-limits {
     display: flex;
+    background-image: url(images/shapes/shape-1.png);
+    background-size: 250px;
+    background-repeat: no-repeat;
+    background-position: left;
 }
 .without-limits-half {
     width: 50%;
@@ -181,8 +185,10 @@ body {
     width: 100%;
     margin-left: 10px;
     padding: 10px;
-    padding-right: 50px;
-    
+    padding-right: 50px; 
+}
+.pro-hero-ex span {
+    color: tomato;
 }
 .pro-hero-ex h1 {
     font-size: 40px;
